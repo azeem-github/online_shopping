@@ -44,5 +44,6 @@
 			  </div>
     </div>
 </footer>
+<!-- <script src="js/price-range.js"></script> -->
 </body>
 </html>

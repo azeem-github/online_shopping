@@ -53,7 +53,7 @@
                            $i++;                       
                         ?>
                         <tr>                  
-                           <td><?php echo $i++; ?>.</td>         
+                           <td><?php echo $i; ?>.</td>         
                            <td><img src="images/slider/<?php echo $image; ?>" style="height:70px; width:120px;"></td>                                                                                              
                            <td>
                               <a href="editslider.php?editid=<?php echo $id; ?>"class="btn btn-warning"><span class="glyphicon"aria-hidden="true"></span> Edit</a> 
